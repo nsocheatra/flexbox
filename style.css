@@ -1,0 +1,118 @@
+.body-w{
+    width: 1280px;
+}
+.font{
+    font-family: "Heebo","Roboto", sans-serif;
+}
+.body-b{
+    background-color: whitesmoke;
+}
+.list-style{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.m-0{
+    margin: 0;
+}
+.m-auto{
+    margin: auto;
+}
+.item-card{
+    width: 380px;
+}
+.border-ra{
+    border-radius: 10px;
+}
+.border-up{
+    border-radius: 10px 10px 0 0;
+}
+.d-flex{
+    display: flex;
+}
+a.center{
+    align-items: center;
+}
+.text-center{
+    text-align: center;
+}
+.al-center{
+    align-items: center;
+}
+.img{
+    width: 50%;
+}
+.card{
+    width: 300px;
+}
+.card-hight{
+    height: 100%;
+}
+.card-color{
+    background-color: white;
+}
+.padt-0{
+    padding-top: 0;
+}
+.padb-0{
+    padding-bottom: 0;
+}
+.pad-10{
+    padding: 10px;
+}
+.pad-20{
+    padding: 20px;
+}
+.mb-0{
+    margin-bottom: 0;
+}
+.gap{
+    gap: 20px;
+}
+.gap-50{
+    gap: 50px;
+}
+.btn-border{
+    border: none;
+}
+.line-high{
+    line-height: 10px;
+}
+.shadow{
+    box-shadow: rgba(149, 157, 165, 0.2) 0 8px 24px;
+}
+.jus-sbet{
+    justify-content: space-between;
+}
+.menu-backgroud{
+    background-color: skyblue;
+}
+.menu-active{
+    background-color: deepskyblue;
+}
+.text-white{
+    color: white;
+
+}
+.text-space{
+    text-space: 10px;
+}
+.star-gold{
+    color: #ff9900;
+}
+.red{
+    color:red;
+}
+.orange{
+    color: #ff6200;
+}
+.gray{
+    color:gray;
+}
+.blue{
+    color: #0861e6;
+}
+.btn:hover{
+    cursor: pointer;
+}
